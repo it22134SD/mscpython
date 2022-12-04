@@ -1,0 +1,6 @@
+def function( input_variables ):
+    ...
+    do staff here
+    ...
+
+    return output_variables
